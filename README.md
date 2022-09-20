@@ -16,3 +16,7 @@ the third assignment was in the communication between the server and the client(
 
 
 The fourth assignment was to order an order of Pitsa shop 
+
+
+
+our grades in the assignments { "Assignment1" : { "grade" : 100, "partner" : "Saker Alkoran", "GitHub" : null }, "Assignment2" : { "grade" : 95, "partner" : "Saker Alkoran", "GitHub" : null }, "Assignment3" : { "grade" : 100, "partner" : "Saker Alkoran", "GitHub" : none}, "Assignment4" : { "grade" : 100, "partner" : "Saker Alkoran", "GitHub" : none } }
