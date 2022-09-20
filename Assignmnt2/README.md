@@ -1,2 +1,2 @@
 This Assignmet is deal with University's computer resources management system.
-It deal with •	system that manages the university's computer resources based on Micro-Services framework, where resources(microservices, represented as runnable classes) had to interact with each other in a particular order by exchanging messages using a shared object (Message Bus).          
+It deal with system that manages the university's computer resources based on Micro-Services framework, where resources(microservices, represented as runnable classes) had to interact with each other in a particular order by exchanging messages using a shared object (Message Bus).          
