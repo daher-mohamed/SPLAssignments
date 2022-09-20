@@ -8,7 +8,7 @@ This assignment was about Fitness Studio Simulation. The program assigns custome
 
 
 The second assignemt was for how to deal with the threds in java and how to use it and how to distribute the jops for them
-
+This Assignmet is deal with University's computer resources management system. It deal with system that manages the university's computer resources based on Micro-Services framework, where resources(microservices, represented as runnable classes) had to interact with each other in a particular order by exchanging messages using a shared object (Message Bus).
 
 
 the third assignment was in the communication between the server and the client(s) is performed using a binary communication protocol, where a registered user can follow other users and post messages. 
