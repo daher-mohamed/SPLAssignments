@@ -1,1 +1,0 @@
-The first assignment was for how to use the memory and ho to clean it correctly. This assignment was about Fitness Studio Simulation. The program assigns customers to trainers due to the input's requests, makes workout plans that consist of one or more workout options, calculates the trainer's salary and other details.
