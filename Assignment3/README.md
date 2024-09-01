@@ -1,1 +1,1 @@
-
+Social Network based on Server-Client paradigm. The communication between the server and the client(s) is performed using a binary communication protocol, where a registered user can follow other users and post messages.          
